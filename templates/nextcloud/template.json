@@ -64,7 +64,8 @@
       "settings": [
         "USE_REVERSE_PROXY",
         "REVERSE_PROXY_HOST",
-        "REVERSE_PROXY_URL"
+        "REVERSE_PROXY_URL",
+        "REVERSE_PROXY_WS"
       ]
     },
     {
