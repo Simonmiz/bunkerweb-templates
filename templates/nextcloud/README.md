@@ -44,7 +44,7 @@ your instance stays reachable and protected.
   elsewhere.
 - Adjust `configs/modsec/nextcloud_false_positives.conf` if you must disable the CRS plugin or tailor the allowed
   methods for niche deployments.
-- Set the RERVERSE_PROXY_WS Option to "yes" to enable the Websocket, which is required for some Nextcloud applications
+- Set the `RERVERSE_PROXY_WS` Option to "yes" to enable the Websocket, which is required for some Nextcloud applications
 
 ## Validation
 
